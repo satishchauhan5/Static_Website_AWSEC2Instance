@@ -1,1 +1,1 @@
-# Aws host web on ec2 server
+# host a web on aws ec2 server
